@@ -46,5 +46,8 @@ public class EjemploLocalDate {
         boolean esdespues = LocalDate.parse("2020-11-11").isAfter(LocalDate.parse("2020-11-12"));
         System.out.println("esdespues = " + esdespues);
 
+
+
+
     }
 }
